@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+
+# Cypress generated files
+cypress/videos/
+cypress/screenshots/
+
+# Cypress results reports
+cypress/cucumberReports/
+cypress/reports/
+
+# Mocha and Cypress Reporter files
+mocha-report/
+cypress-mochawesome-report/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# NPM package lock
+package-lock.json
+
+# Miscellaneous
+*.env
+.env.local
